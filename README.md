@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web Devlopment
+- 💻 I’m currently working on Web Devlopment
 - 🌱 I’m currently learning Javascript and JAVA
 - 🤔 I’m looking for help with (https://github.com/cyb3rsl0th)
 - 💬 Ask me about HTML,CSS
