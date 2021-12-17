@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 - 💻 I’m currently working on Web Devlopment
 - 🌱 I’m currently learning Javascript and JAVA
