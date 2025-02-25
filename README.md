@@ -5,7 +5,7 @@
     <h4>JavaScript, HTML, CSS</h4>
   </li>
   <li>
-    <h4> React , Node</h4>
+    <h4> (React , Node) * JS</h4>
   </li>
   <li>
     <h4>SQL</h4>
