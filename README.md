@@ -15,6 +15,8 @@
   </li>
 </ol>
 
+<hr style="border: none; border-top: 2px solid #ccc; margin: 20px 0;">
+
 <h3>💡 Note:</h3>
 <p>
 Neural networks and deep learning caught my interest, and I’ve been curious ever since. 
