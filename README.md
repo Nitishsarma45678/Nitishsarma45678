@@ -1,9 +1,20 @@
-<h1 align="center">Hi , I'm Nitish Sarma</h1>
-<h2> Trying to better, </h2>
- <h3>JavaScript , Html , CSS</h3>
-  <h3>SQL</h3>
-   <h3>Docker</h3>
-    <h3> ResNet, OpenCV </h3>
+<h1>Hi , I'm Nitish Sarma</h1>
+<h3> Trying to better, </h3>
+<ol>
+  <li>
+    <h4>JavaScript, HTML, CSS</h4>
+  </li>
+  <li>
+    <h3>SQL</h3>
+  </li>
+  <li>
+    <h3>Docker</h3>
+  </li>
+  <li>
+    <h3>ResNet, OpenCV</h3>
+  </li>
+</ol>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nitisarma5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nitisarma5" height="30" width="40" /></a>
