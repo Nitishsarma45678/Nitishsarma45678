@@ -1,5 +1,5 @@
 <h1>Hi , I'm Nitish Sarma</h1>
-<h3> Trying to better, </h3>
+<h3> Trying to better ➖, </h3>
 <ol>
   <li>
     <h4>JavaScript, HTML, CSS</h4>
