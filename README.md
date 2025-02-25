@@ -5,13 +5,13 @@
     <h4>JavaScript, HTML, CSS</h4>
   </li>
   <li>
-    <h3>SQL</h3>
+    <h4>SQL</h4>
   </li>
   <li>
-    <h3>Docker</h3>
+    <h4>Docker</h4>
   </li>
   <li>
-    <h3>ResNet, OpenCV</h3>
+    <h4>ResNet, OpenCV</h4>
   </li>
 </ol>
 
