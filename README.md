@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nitish Sarma <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="waving hand gif" width="40"/></h1>
-<h3>Trying to better ➖</h3>
+<h3>Trying to be better at ➖</h3>
 <ol>
   <li>
     <h4>JavaScript, HTML, CSS</h4>
