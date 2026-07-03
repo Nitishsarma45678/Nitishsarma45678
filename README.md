@@ -6,5 +6,5 @@
 <h3>💡 Note:</h3>
 <p>
 Neural networks and deep learning caught my interest, and I’ve been curious ever since. 
-Exploring neural networks and training models — not just for the results, but because the concept itself is endlessly fascinating.
+Exploring neural networks and training models, not just for the results, but because the concept itself is endlessly fascinating.
 </p>
