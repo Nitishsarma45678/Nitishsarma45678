@@ -18,4 +18,4 @@ I build practical software across the stack and enjoy understanding how systems 
 
 Machine Learning · System Design · Backend Engineering · Open Source
 
-[Portfolio](https://nitish-portfolio-sigma.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nitishsarma-dev/)
+[Portfolio](https://nitish-portfolio-sigma.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nitishsarma-dev/) · [X](https://x.com/NitishSarma10)
