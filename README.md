@@ -18,16 +18,16 @@ I build practical software across the stack and enjoy understanding how systems 
 
 Machine Learning · System Design · Backend Engineering · Open Source
 
+### Connect
+
 <p align="left">
-  <a href="https://nitish-portfolio-sigma.vercel.app/" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/internetarchive/8b949e" alt="Portfolio" height="30" />
+  <a href="https://nitish-portfolio-sigma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nitishsarma-dev/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" />
+  <a href="https://www.linkedin.com/in/nitishsarma-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/NitishSarma10" title="X">
-    <img src="https://cdn.simpleicons.org/x/ffffff" alt="X" height="30" />
+  <a href="https://x.com/NitishSarma10">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
