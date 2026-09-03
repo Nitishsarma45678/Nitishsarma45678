@@ -9,9 +9,7 @@ I build practical software across the stack and enjoy understanding how systems 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,html,css,sql" height="42" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,flask" height="42" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=sqlite,opencv,docker,git,github" height="42" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,flask,docker" height="42" />
 </p>
 
 ### Currently Exploring
