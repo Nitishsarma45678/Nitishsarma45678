@@ -6,11 +6,13 @@ I build practical software across the stack and enjoy understanding how systems 
 
 ### Tech
 
-**Languages:** JavaScript · Python · SQL · HTML · CSS  
-**Frontend:** React · Tailwind CSS · Vite  
-**Backend:** Node.js · Flask · SQLite · REST APIs  
-**AI/ML:** OpenCV · Neural Networks · Deep Learning  
-**Tools:** Git · GitHub · Docker
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,sql" height="42" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nodejs,flask" height="42" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=sqlite,opencv,docker,git,github" height="42" />
+</p>
 
 ### Projects
 
