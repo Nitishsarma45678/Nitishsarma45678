@@ -1,4 +1,4 @@
-# Hi, I'm Nitish Sarma 👋
+<h1>Hi, I'm Nitish Sarma <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="waving hand gif" width="40"/></h1>
 
 ### Software Engineer · Frontend · Backend · AI/ML
 
