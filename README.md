@@ -22,12 +22,12 @@ Machine Learning · System Design · Backend Engineering · Open Source
 
 <p align="left">
   <a href="https://nitish-portfolio-sigma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" width="170" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/nitishsarma-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="170" height="40" />
   </a>
   <a href="https://x.com/NitishSarma10">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" width="170" height="40" />
   </a>
 </p>
